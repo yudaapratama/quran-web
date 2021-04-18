@@ -46,7 +46,7 @@
 				// data: {param1: 'value1'}
 			})
 			.done(function(response) {
-				console.log(response);
+				// console.log(response);
 				var html = "";
 				$.each(response, function(key, value) {
 					// console.log(key + " : "+value);
