@@ -41,7 +41,7 @@
 				data: {param: surah}
 			})
 			.done(function(response) {
-				console.log(response);
+				// console.log(response);
 				var html = "";
         // var d = jQuery.parseJSON(response);
         // console.log(d);
